@@ -9,42 +9,68 @@
 
 ## 01 / ABOUT
 
-Graduate researcher in Computer Engineering at **Hansung University**, working at **AML Lab**.
+Graduate Researcher at **AML Lab, Hansung University**.
 
-My research focuses on **Computer Vision, Physical AI, and AI for Smart Manufacturing**, 
-with an emphasis on developing practical and reliable AI systems for industrial environments.
-
-<br>
-
-## 02 / RESEARCH FOCUS
-
-- **Computer Vision** — Automated Optical Inspection, Object Detection, Vision AI
-- **Physical AI** — Robot Manipulation, Long-Horizon Tasks, Simulation
-- **Smart Manufacturing** — Semiconductor Inspection, Manufacturing Automation
-- **Edge AI** — On-device Inference, Resource-efficient AI
+Building practical and reliable AI systems for **industrial vision, edge intelligence, and robotic automation**.
 
 <br>
 
-## 03 / SELECTED PROJECTS
+## 02 / TECH STACK
+
+**Languages**  
+`Python` `C++`
+
+**AI & Computer Vision**  
+`PyTorch` `YOLO` `OpenCV` `VLM`
+
+**Robotics & Simulation**  
+`ROS 2` `Isaac Sim` `MuJoCo`
+
+**Edge & Deployment**  
+`On-device AI` `Edge AI` `INT8 Quantization` `CPU Inference`
+
+**Tools**  
+`Git` `GitHub` `Linux`
+
+<br>
+
+## 03 / RESEARCH FOCUS
+
+**Computer Vision**  
+Automated Optical Inspection · Object Detection · Industrial Vision
+
+**Physical AI**  
+Robot Manipulation · Long-Horizon Tasks · Simulation
+
+**Smart Manufacturing**  
+Semiconductor Inspection · Manufacturing Automation
+
+**Edge AI**  
+On-device Inference · Resource-efficient AI
+
+<br>
+
+## 04 / SELECTED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### On-device AI Graduation Project
+### On-device AI Blackbox Assistance System
 **2025 · Graduation Project**
 
-On-device AI system designed to perform intelligent inference directly on edge devices without relying on external cloud computation.
+Edge-based AI system integrating vision, audio, and sensor signals for intelligent inference directly on embedded devices.
 
-`Edge AI` `On-device AI` `Computer Vision`
+`On-device AI` `Edge AI` `Computer Vision` `Embedded AI`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### AI Pill Recognition Application
 **2023 · Engineering Competition · Bronze Award**
 
-AI-based application for recognizing pills using computer vision and providing relevant medication information.
+Computer vision-based application for recognizing pills and providing relevant medication information.
 
 `Computer Vision` `Object Detection` `AI Application`
 
@@ -54,38 +80,47 @@ AI-based application for recognizing pills using computer vision and providing r
 <tr>
 <td width="50%" valign="top">
 
-### Semiconductor AOI Research
-**2025–2026 · AML Lab**
+### CALIPER — CPU-based BGA AOI
+**2026 · Research Project**
 
-Research on CPU-based automated optical inspection and automatic teaching for semiconductor packaging inspection.
+Single-reference, CPU-based inspection framework for reducing operator-dependent recipe tuning in semiconductor BGA inspection.
 
-`AOI` `BGA Inspection` `Computer Vision`
+`AOI` `BGA Inspection` `Computer Vision` `CPU Inference`
 
 </td>
+
 <td width="50%" valign="top">
 
-### Physical AI & Robot Manipulation
-**2026 · AML Lab**
+### Physical AI & Long-Horizon Manipulation
+**2026 · Current Research**
 
-Simulation-based research on reliable execution, verification, and recovery for long-horizon manufacturing manipulation tasks.
+Simulation-based research on reliable execution, task verification, and failure recovery for long-horizon manufacturing manipulation.
 
-`Physical AI` `Robotics` `Isaac Sim`
+`Physical AI` `Robotics` `Isaac Sim` `Long-Horizon Tasks`
 
 </td>
 </tr>
 </table>
 
-<!--
-**heyoungahn/heyoungahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## 05 / RESEARCH & AWARDS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**2026**  
+**CALIPER: A Single-Reference, CPU-Based Inspection Framework for Reducing Operator-Dependent Recipe Tuning in BGA AOI**  
+ISMP 2026 · Poster Presentation
+
+**2023**  
+**AI Pill Recognition Application**  
+Engineering Competition · Bronze Award
+
+<br>
+
+## 06 / CONNECT
+
+**AML Lab** · Hansung University  
+**ORCID** · [0009-0009-9307-0211](https://orcid.org/0009-0009-9307-0211)  
+**LinkedIn** · Add LinkedIn URL  
+**Email** · Add email address
+
+<br>
