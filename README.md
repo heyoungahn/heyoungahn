@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=230&section=header&text=Heeyoung%20Ahn&fontSize=60&fontAlignY=44&fontColor=000000&color=0:FFFFFF,100:FFFFFF&stroke=2F54EB&strokeWidth=2&animation=fadeIn&desc=M.S.%20Student%20%40%20AML%20Lab%2C%20Hansung%20University&descSize=18&descAlignY=68&descColor=2F54EB"
+    src="https://capsule-render.vercel.app/api?type=venom&height=230&section=header&text=Heeyoung%20Ahn&fontSize=60&fontAlignY=44&fontColor=172554&color=0:EAF0FF,100:C7D7FF&stroke=2F54EB&strokeWidth=1&animation=fadeIn&desc=M.S.%20Student%20%40%20AML%20Lab%2C%20Hansung%20University&descSize=18&descAlignY=68&descColor=172554"
     width="100%"
     alt="Heeyoung Ahn"
   />
