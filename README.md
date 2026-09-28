@@ -18,7 +18,7 @@ I am an M.S. student at **[AML Lab, Hansung University](https://sites.google.com
 
 My research focuses on **AI for smart manufacturing**, particularly **computer vision for semiconductor inspection** and **physical AI for robotic manufacturing automation**.
 
-🌐 Please check out my [**Homepage**](https://probable-pet-e77.notion.site/HeeYoung-Ahn-25a0064904b180dc99ffe3095490646c) for more about my research, projects, and experience.
+🌐 Please check out my [**Homepage**](https://heyoungahn.github.io) for more about my research, projects, and experience.
 
 ---
 
@@ -207,7 +207,7 @@ My research focuses on **AI for smart manufacturing**, particularly **computer v
 
 ## 🔗 Connect with Me
 
-[![Homepage](https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=notion&logoColor=white)](https://probable-pet-e77.notion.site/HeeYoung-Ahn-25a0064904b180dc99ffe3095490646c)
+[![Homepage](https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=notion&logoColor=white)](https://heyoungahn.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](YOUR_GOOGLE_SCHOLAR_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyoungahn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
